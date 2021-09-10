@@ -57,7 +57,7 @@ http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-confi
 Also, in DOCS folder there is an exported file api-swagger.json with the documentation.
 
 ### Tech Stack
-    * Linguagem utilizada: Java v1.8
+    * Programming language: Java v1.8
     * Framework: Spring Boot v2.4.2
     * IDE: Intellij 2021.1
     * Database engine: MySQL v8.0.23
